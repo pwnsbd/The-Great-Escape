@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="newsword" targetId="68354730d7b449408123da92854464f2" version="14.0" toolVersion="v7.3.1" bbox="-0.0278897 0 -0.0233031 0.0278897 0.693489 0.0233031" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="newsword" assemblyId="5ab81a0f7d3c44ceb592bd0996f0a2cd">
+        <Part name="newsword" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="Camera" targetId="ac31aa9f8772468391b64f02305c677d" bbox="-0.0680235 0 -0.0496541 0.0680235 0.110212 0.0496541" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="bulletPlane" targetId="912d9353e27048d5be3d57463fc0ae44" bbox="-0.111115 0 -0.0514233 0.111115 0.0515032 0.0514234" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="IronMan" targetId="9ecdfe42b5374d9d82b9e21446831c27" bbox="-0.051635 0 -0.0639782 0.051635 0.214246 0.0639782" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="headset" targetId="c3556e51f6724653b641b87230ff50f4" bbox="-0.160566 0 -0.0813798 0.160566 0.0837502 0.0813798" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="goPro" targetId="9fb79d01b39446cfb58b4117a2208f4f" bbox="-0.0407631 0 -0.0360708 0.0407631 0.0973354 0.0360708" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="oldSword" targetId="7457a3b452c44a648b3481f6b0c2994f" bbox="-0.0207793 0 -0.0254586 0.0207793 0.53691 0.0254586" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="wrappedSword" targetId="bd6f0eecc3c6488582a91f181ba3230a" bbox="-0.0479814 0 -0.0356084 0.0479814 0.637979 0.0356084" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="Camera" assemblyId="31bb475a63b943faac2e5f3c8f8abbf5">
+        <Part name="Camera" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="bulletPlane" assemblyId="f94625524dc442da9ba5a9b907ef43a2">
+        <Part name="bulletPlane" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="IronMan" assemblyId="85c2ea5ce1a546a3a8849491d7870c1f">
+        <Part name="IronMan" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="headset" assemblyId="b642e476eea04d8998a65193c5a13d94">
+        <Part name="headset" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="goPro" assemblyId="205ab1f6a6dd41e4affbeaab76ee2743">
+        <Part name="goPro" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="oldSword" assemblyId="e3a2ed8e16474322b8501864ed0ae8e4">
+        <Part name="oldSword" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="wrappedSword" assemblyId="74f8040e0985485ead9ae0365f67e231">
+        <Part name="wrappedSword" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="9aa56374408a413282ac292028ca53d5" name="allForOne" toolVersion="v7.3.1" version="36.0" />
+</QCARInfo>

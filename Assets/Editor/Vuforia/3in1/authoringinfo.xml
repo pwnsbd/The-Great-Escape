@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="bulletPlane" targetId="a62a7c7b9d0a493a8a60eec9f2d69e19" bbox="-0.111115 0 -0.0514233 0.111115 0.0515032 0.0514234" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="Camera" targetId="b24cc9ae8173409b840e1a623cccfae6" bbox="-0.0680235 0 -0.0496541 0.0680235 0.110212 0.0496541" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="IronMan" targetId="f32752beac4542ffb25e471c93a1041e" bbox="-0.051635 0 -0.0639782 0.051635 0.214246 0.0639782" version="14.0" toolVersion="v7.3.1" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="bulletPlane" assemblyId="6203fbae006e4051aec6402cb5fbcdba">
+        <Part name="bulletPlane" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Camera" assemblyId="b64b63ef68ea43c186f5d244e0f91be1">
+        <Part name="Camera" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="IronMan" assemblyId="8070ff13e97f499384c05b4529b77a21">
+        <Part name="IronMan" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="0c6442efe1d84ff0bedd55c01662ea21" name="3in1" toolVersion="v7.3.1" version="36.0" />
+</QCARInfo>

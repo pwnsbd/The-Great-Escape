@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.3.1">
+        <ModelTarget name="ironman" targetId="c4d6a59178b741a994126649df3c0f8a" version="14.0" toolVersion="v7.3.1" bbox="-0.051635 0 -0.0639782 0.051635 0.214246 0.0639782" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="ironman" assemblyId="8254ba855bcb4f22b600ee815d073e0a">
+        <Part name="ironman" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
